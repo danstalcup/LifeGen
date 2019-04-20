@@ -1,0 +1,15 @@
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\bin\Debug\LifeGenApi.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\bin\Debug\LifeGenApi.pdb
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\bin\Debug\Troschuetz.Random.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\bin\Debug\Troschuetz.Random.xml
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\obj\Debug\LifeGenApi.csprojAssemblyReference.cache
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\obj\Debug\LifeGenApi.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\obj\Debug\LifeGenApi.csproj.CopyComplete
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\obj\Debug\LifeGenApi.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\obj\Debug\LifeGenApi.pdb
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\bin\Debug\LifeGenCore.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\bin\Debug\LifeGenDal.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\bin\Debug\LiteDB.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\bin\Debug\LifeGenCore.pdb
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\bin\Debug\LifeGenDal.pdb
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenApi\bin\Debug\LiteDB.xml

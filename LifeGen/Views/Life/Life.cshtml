@@ -1,0 +1,27 @@
+﻿@model LifeGen.Models.LifeViewModel
+
+@{
+    ViewData["Title"] = "Life";
+}
+
+<h2>Life</h2>
+
+<div>
+    <h1>@Model.Character.FullName</h1>
+    <p>@Model.Character.GenderString</p>
+    <p>Born: @Model.Character.DateOfBirthString</p>
+    @foreach (var log in Model.Character.Logs)
+    {
+        <p>@log</p>
+    }
+</div>
+<div>
+    <input type="button"
+           value="Sim"
+           onclick="location.href='@Url.Action("Sim", "Life")'" />
+</div>
+<div>
+    <input type="button"
+           value="New Character"
+           onclick="location.href='@Url.Action("NewCharacter", "Life")'" />
+</div>

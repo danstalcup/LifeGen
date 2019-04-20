@@ -1,0 +1,11 @@
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\bin\Debug\LifeGenDb.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\bin\Debug\LifeGenDb.pdb
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\bin\Debug\LifeGenCore.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\bin\Debug\LiteDB.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\bin\Debug\LifeGenCore.pdb
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\bin\Debug\LiteDB.xml
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\obj\Debug\LifeGenDb.csprojAssemblyReference.cache
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\obj\Debug\LifeGenDb.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\obj\Debug\LifeGenDb.csproj.CopyComplete
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\obj\Debug\LifeGenDb.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenDb\obj\Debug\LifeGenDb.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenCore\bin\Debug\LifeGenCore.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenCore\bin\Debug\LifeGenCore.pdb
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenCore\obj\Debug\LifeGenCore.csprojAssemblyReference.cache
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenCore\obj\Debug\LifeGenCore.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenCore\obj\Debug\LifeGenCore.dll
+C:\Users\Dan\Source\Repos\LifeGen\LifeGenCore\obj\Debug\LifeGenCore.pdb
